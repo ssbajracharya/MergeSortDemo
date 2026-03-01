@@ -1,0 +1,12 @@
+# Build output
+bin/
+obj/
+
+# User/IDE files
+.vs/
+*.user
+*.suo
+
+# Exclude test projects and test source files
+MergeSortDemo.Tests/
+**/*Tests.cs
